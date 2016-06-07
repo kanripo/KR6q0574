@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:54:17.163709
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:02
 #+TITLE: 性空臻禪師語錄
 #+PROPERTY: CBETA_ID J39nB461
 #+PROPERTY: ID KR6q0574
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 39, No. B461
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0574_J_004-0759b> 
 #+PROPERTY: JUAN 4
-
- 性空臻禪師語錄卷第四¶
+性空臻禪師語錄卷第四¶
 嗣法門人超曉超自等編¶
 
-拈頌一¶
+* 拈頌¶
 
 「世尊拈花迦葉微笑。」¶
 
@@ -185,7 +184,7 @@
 曰和尚為什麼在學人肚裏門曰還我話頭來。」¶
 
 【拈這僧莽鹵一擔雲門偷心十分用個倒身之¶
-計將這僧三膲六腑生熟二臟盡情搬出自己¶
+計將這僧三膲六腑生熟二臟盡情搬出自巳¶
 卻頓在裏許未免令人好笑這僧若是選佛但¶
 云多謝和尚供養。¶
 
