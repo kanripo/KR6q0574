@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:54:17.163709
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:02
 #+TITLE: 性空臻禪師語錄
 #+PROPERTY: CBETA_ID J39nB461
 #+PROPERTY: ID KR6q0574
@@ -13,7 +13,7 @@
  性空臻禪師語錄卷第四¶
 嗣法門人超曉超自等編¶
 
-拈頌一¶
+* 拈頌一¶
 
 「世尊拈花迦葉微笑。」¶
 
